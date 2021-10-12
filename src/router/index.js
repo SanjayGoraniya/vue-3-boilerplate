@@ -23,7 +23,7 @@ const router = createRouter({
   routes,
 });
 
-const DEFAULT_TITLE = " - ThingPilot";
+const DEFAULT_TITLE = " - Vue 3 Boilerplate";
 router.afterEach((to) => {
   nextTick(() => {
     document.title =
