@@ -1,4 +1,4 @@
-# vue-boilerplate
+# vue-3-boilerplate
 
 ## Project setup
 ```
